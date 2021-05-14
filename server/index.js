@@ -20,8 +20,8 @@ const nodemailer = require('nodemailer');
 var transport = {
     service: 'gmail',
   auth: {
-    user: "agnelselvan01@gmail.com",
-    pass: "Pace2012#"
+    user: "Yours Email ID",
+    pass: "Password Here"
   }
 }
 

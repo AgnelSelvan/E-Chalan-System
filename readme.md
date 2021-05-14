@@ -15,6 +15,8 @@
 
 4. Online Payment Gateway PAYTM.
 
+<img src="./screenshots/4.0.jpeg" >
+
 <img src="./screenshots/4.jpeg" >
 
 5. Payment Successfull Page
